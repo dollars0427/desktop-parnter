@@ -1,0 +1,17 @@
+{
+  "name": "desktop-partner",
+  "version": "1.0.0",
+  "description": "Little Desktop Partner",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mr.Twister",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "electron-packager": "^8.4.0"
+  }
+}
