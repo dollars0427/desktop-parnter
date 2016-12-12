@@ -10,7 +10,7 @@
 ```bash
 
 # 複製本專案
-git clone https://github.com/electron/electron-quick-start
+git clone git@github.com:dollars0427/desktop-parnter.git
 # 進入資料夾
 cd
 # 安裝
